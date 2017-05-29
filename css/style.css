@@ -51,22 +51,26 @@ Nexa Bold Italic
   font-family: 'Nexa';
   src: url("webfonts/3018A5_C_0.eot");
   src: url("webfonts/3018A5_C_0.eot?#iefix") format("embedded-opentype"), url("webfonts/3018A5_C_0.woff2") format("woff2"), url("webfonts/3018A5_C_0.woff") format("woff"), url("webfonts/3018A5_C_0.ttf") format("truetype"); }
+
 @font-face {
   font-family: 'Nexa';
   src: url("webfonts/3018A5_B_0.eot");
   src: url("webfonts/3018A5_B_0.eot?#iefix") format("embedded-opentype"), url("webfonts/3018A5_B_0.woff2") format("woff2"), url("webfonts/3018A5_B_0.woff") format("woff"), url("webfonts/3018A5_B_0.ttf") format("truetype");
   font-style: italic; }
+
 @font-face {
   font-family: 'Nexa';
   src: url("webfonts/3018A5_4_0.eot");
   src: url("webfonts/3018A5_4_0.eot?#iefix") format("embedded-opentype"), url("webfonts/3018A5_4_0.woff2") format("woff2"), url("webfonts/3018A5_4_0.woff") format("woff"), url("webfonts/3018A5_4_0.ttf") format("truetype");
   font-weight: bold; }
+
 @font-face {
   font-family: 'Nexa';
   src: url("webfonts/3018A5_3_0.eot");
   src: url("webfonts/3018A5_3_0.eot?#iefix") format("embedded-opentype"), url("webfonts/3018A5_3_0.woff2") format("woff2"), url("webfonts/3018A5_3_0.woff") format("woff"), url("webfonts/3018A5_3_0.ttf") format("truetype");
   font-weight: bold;
   font-style: italic; }
+
 /* | NEXA LIGHT |
 Nexa Light
 Nexa Light Italic
