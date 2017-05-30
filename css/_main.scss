@@ -11,32 +11,29 @@ body{
 	min-width: 100%;
   min-height: 100%;
 	font-family:Nexa;
-	padding-top: 4*$spacing-unit;
-	padding-bottom: $spacing-unit;
 	background-color: $color-background;
 	color:#FFF;
 	background-image:url("../img/earth.png"),url("../img/stars.png");
-	background-repeat:no-repeat;
+	background-position: center, center top;
+	background-repeat: no-repeat, repeat-y;
 }
 
 // Icon Manipulation
 
-.black-icon{
-	color: black;
+.white-icon{
+	color: white;
 }
-a.black-icon:hover{
-	color: black;
+a.white-icon:hover{
+	color: white;
 }
-a.black-icon:visited{
-	color:black;
+a.white-icon:visited{
+	color: white;
 }
 
 .logo{
 	max-width: 25%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color:white;
-	border-radius: 10px;
 }
 
 .index-filter {
