@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>REDIRECT</title>
+  </head>
+  <body>
+    <p>
+      Redirecting to
+      <a id="link" href="https://worldaffairscon.org"
+        >https://worldaffairscon.org/</a
+      >
+    </p>
+  </body>
+  <script type="text/javascript">
+    var url = window.location.href.replace(
+      "https://worldaffairs.ucc.on.ca/",
+      "https://worldaffairscon.org/"
+    );
+    document.getElementById("link").href = url;
+    document.getElementById("link").innerHTML = url;
+    window.location.replace(url);
+  </script>
+</html>
